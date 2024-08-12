@@ -39,4 +39,4 @@
 ### 📫 Contact Me
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)]www.linkedin.com/in/wesley-matos-5a4b84254)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)]www.linkedin.com/in/wesley-matos-5a4b84254-c-j%C3%BAnior-343a65222/)
