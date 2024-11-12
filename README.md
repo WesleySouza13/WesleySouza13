@@ -3,7 +3,7 @@
 - 🔭 Sou estudante de Ciencia de Dados
 - 🌱 Sou fascinado em Machine Learning
 - 👯 Estudo deep learning aplicado 
-- 😄 Pronomes: ele/dele
+
 
 <table>
   <tr style="border: none;">
