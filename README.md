@@ -1,8 +1,8 @@
 ## Olá, sou o WesleySouza13! 👋
 
 - 🔭 Sou estudante de Ciencia de Dados
-- 🌱 Sou fascinado em Machine Learning
-- 👯 Estudo deep learning aplicado 
+-  Sou fascinado em Machine Learning
+- Estudo deep learning aplicado 
 
 
 <table>
