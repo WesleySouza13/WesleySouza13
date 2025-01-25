@@ -42,8 +42,6 @@
 
 ---
 
-### 🎯 "A verdadeira força está na compreensão dos dados e na busca por respostas."
-
 Sinta-se à vontade para explorar meus repositórios ou conectar-se no LinkedIn. 🚀
 
 
