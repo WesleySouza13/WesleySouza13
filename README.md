@@ -1,5 +1,6 @@
 ## 🌀 WesleySouza13 🌀
 
+**`Data Scientist | Machine Learning Enthusiast | Seeker of Knowledge`**
 
 
 ---
