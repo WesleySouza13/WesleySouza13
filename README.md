@@ -1,56 +1,61 @@
-## Olá, sou o WesleySouza13! 👋
+## 🌀 WesleySouza13 - Sharing Data Ninja Skills 🌀
 
-- 🔭 Sou estudante de Ciencia de Dados
--  Sou fascinado em Machine Learning
-- Estudo deep learning aplicado 
+<img align="right" src="https://wallpapercave.com/wp/wp2555334.jpg" alt="Uchiha" width="280"/>
 
+**`Data Scientist | Machine Learning Enthusiast | Seeker of Knowledge`**
 
-<table>
-  <tr style="border: none;">
-    <td style="border: none;">
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=WesleySouza13&show_icons=true&theme=dark&title_color=C00102&icon_color=C00102"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=WesleySouza13&show_icons=true&title_color=C00102&icon_color=C00102"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api?username=WesleySouza13&show_icons=true&title_color=C00102&icon_color=C00102" />
-      </picture>
-    </td>
-    <td style="border: none;">
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleySouza13&layout=compact&theme=dark&title_color=C00102"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleySouza13&layout=compact&title_color=C00102"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleySouza13&layout=compact&title_color=C00102" />
-      </picture>
-    </td>
-  </tr>
-</table>
+- 🌌 **Estudante de Ciência de Dados** \- Explorando os mistérios dos dados como um verdadeiro ninja.
+- 🔍 **Apaixonado por Machine Learning** \- Sempre aprimorando técnicas e explorando Deep Learning.
+- 🧠 **Foco no Futuro** \- Aplicando IA para transformar desafios em soluções inovadoras.
 
-### 📫 Contact Me
+---
 
+### 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)]www.linkedin.com/in/wesley-matos-5a4b84254)
+<div style="display: flex; justify-content: space-around;">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=WesleySouza13&show_icons=true&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=WesleySouza13&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=WesleySouza13&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleySouza13&layout=compact&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleySouza13&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleySouza13&layout=compact&theme=tokyonight" alt="Top Langs" />
+  </picture>
+</div>
 
+---
 
-### 🛠️ Skills
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+### 🌟 **Habilidades Ninja**
+
+#### Linguagens e Frameworks:
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+#### Ferramentas:
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+
+#### Outras Skills:
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
+---
+
+### 📫 **Contact Me**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/wesley-matos-5a4b84254)
+
+---
+
+### 🌀 "Com paciência e prática, até o Sharingan se desenvolve!"
+
+Sinta-se à vontade para explorar meus repositórios ou conectar-se no LinkedIn. Vamos juntos desbravar os mistérios da Ciência de Dados! 🚀
+
