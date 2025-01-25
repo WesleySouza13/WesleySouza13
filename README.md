@@ -1,6 +1,6 @@
-## 🌀 WesleySouza13 - Sharing Data Ninja Skills 🌀
+## 🌀 WesleySouza13 - Mestre dos Dados 🌀
 
-<img align="right" src="https://wallpapercave.com/wp/wp2555334.jpg" alt="Uchiha" width="280"/>
+<img align="right" src="https://wallpapercave.com/wp/wp2555334.jpg" alt="Itachi Uchiha" width="280"/>
 
 **`Data Scientist | Machine Learning Enthusiast | Seeker of Knowledge`**
 
@@ -8,13 +8,13 @@
 
 ### 🔥 Sobre Mim
 
-- 🌌 **Estudante de Ciência de Dados** \- Explorando os mistérios dos dados como um verdadeiro ninja.
-- 🔍 **Apaixonado por Machine Learning** \- Sempre aprimorando técnicas e explorando Deep Learning.
-- 🧠 **Foco no Futuro** \- Aplicando IA para transformar desafios em soluções inovadoras.
+- 📘 **Estudante de Ciência de Dados** \- Em constante aprendizado e aprimoramento.
+- 🧠 **Apaixonado por Machine Learning** \- Estudo e aplico técnicas avançadas de aprendizado de máquina.
+- 🎯 **Foco no Impacto** \- Desenvolvo soluções práticas e eficientes para problemas reais.
 
 ---
 
-### 🌟 Habilidades Ninja
+### 🌟 Habilidades
 
 #### 🛠️ **Linguagens e Frameworks**
 
@@ -52,8 +52,9 @@
 
 ---
 
-### 🎯 "Com paciência e prática, até o Sharingan se desenvolve!"
+### 🎯 "A verdadeira força está na compreensão dos dados e na busca por respostas."
 
-Sinta-se à vontade para explorar meus repositórios ou conectar-se no LinkedIn. Vamos juntos desbravar os mistérios da Ciência de Dados! 🚀
+Sinta-se à vontade para explorar meus repositórios ou conectar-se no LinkedIn. 🚀
+
 
 
