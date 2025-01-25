@@ -1,6 +1,7 @@
 ## 🌀 WesleySouza13 🌀
 
-**`Data Scientist | Machine Learning ** 
+**`Data Scientist | Machine Learning`**
+
 
 
 ---
