@@ -1,16 +1,6 @@
-## 🌀 WesleySouza13 - Mestre dos Dados 🌀
+## 🌀 WesleySouza13 🌀
 
-<img align="right" src="https://wallpapercave.com/wp/wp2555334.jpg" alt="Itachi Uchiha" width="280"/>
 
-**`Data Scientist | Machine Learning Enthusiast | Seeker of Knowledge`**
-
----
-
-### 🔥 Sobre Mim
-
-- 📘 **Estudante de Ciência de Dados** \- Em constante aprendizado e aprimoramento.
-- 🧠 **Apaixonado por Machine Learning** \- Estudo e aplico técnicas avançadas de aprendizado de máquina.
-- 🎯 **Foco no Impacto** \- Desenvolvo soluções práticas e eficientes para problemas reais.
 
 ---
 
