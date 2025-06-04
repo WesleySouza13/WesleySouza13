@@ -11,6 +11,11 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/Optuna-7F52FF?style=for-the-badge&logo=optuna&logoColor=white" alt="Optuna">
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost">
+  <img src="https://img.shields.io/badge/Redes%20Neurais-8A2BE2?style=for-the-badge&logo=neural-network&logoColor=white" alt="Redes Neurais">
+  <img src="https://img.shields.io/badge/Estatística-1E90FF?style=for-the-badge&logo=statistics&logoColor=white" alt="Estatística">
+
 </p>
 
 <p>
