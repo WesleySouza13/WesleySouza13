@@ -1,6 +1,5 @@
 ## 🌀 WesleySouza13 🌀
 
-![visitors](https://komarev.com/ghpvc/?username=wesleySouza&color=blue)
 
 
 **`Data Scientist | Machine Learning`**
