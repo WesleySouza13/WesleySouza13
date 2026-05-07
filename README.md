@@ -1,7 +1,7 @@
 ##  WesleySouza13 👨‍💻
 *`Data Scientist | Machine Learning | MLops`*
 
-Sou Wesley, 21 anos, natural de Niterói e atualmente em Macuco (RJ). Trabalho com projetos de dados, modelagem matemática e Machine Learning aplicado ao mundo real.
+Sou Wesley, 22 anos, natural de Niterói e atualmente em Macuco (RJ). Trabalho com projetos de dados, modelagem matemática e Machine Learning aplicado ao mundo real.
 
 Quer trocar ideia ou acompanhar meus projetos? Me chama no LinkedIn!
 
